@@ -9,3 +9,7 @@ ahora sigue la modificacion que ss eva a llamar segundo commit
 ya se creo se modifico , ahora realizo un tercer commit a fin de sguir la prueba y probar las modificaciones en la rama master
 el ultimo commit s denomina head( es lo mas nuevo)podemos desd ahi volver al primer commit y desp alultimo nuevamente( en este caso 3 commit)
 o quedarnos en el primero
+
+ahora estoy trabajando sobre una rama( sobre la que un programdor va a trabajar) que sale de develop ( que deriva de la rama master)
+cada programador va a tener su rama de trabaja para mandar todo a develop en este caso, debe colocar merge asi perdmite que los demas tambien
+ trabajen sobre sus cambios
