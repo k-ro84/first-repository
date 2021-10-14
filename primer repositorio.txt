@@ -4,4 +4,8 @@ creacion de primer repositorio ahora se sigue de nuevo en gitbash para conectar 
 
 ahora la modificacion del proyecto una vez creado y tomado por los dos git
  cree todo con el main en lugar de master  coloque el add. status push en el primer commit
-ahora sigue la modificacion que ss eva a llamar segundo commit
+ahora sigue la modificacion que ss eva a llamar segundo commit  
+
+ya se creo se modifico , ahora realizo un tercer commit a fin de sguir la prueba y probar las modificaciones en la rama master
+el ultimo commit s denomina head( es lo mas nuevo)podemos desd ahi volver al primer commit y desp alultimo nuevamente( en este caso 3 commit)
+o quedarnos en el primero
